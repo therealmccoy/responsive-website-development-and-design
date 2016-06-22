@@ -1,6 +1,6 @@
 ##  Responsive Website Development and Design Specialization.
 
-by University of London & Goldsmiths, University of London ##
+by University of London & Goldsmiths, University of London
 
 These are my notes/ assignment work and code from the above mentioned specialisation course.
 
